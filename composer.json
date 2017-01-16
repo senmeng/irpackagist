@@ -1,5 +1,5 @@
 {
-    "name": "monolog/monolog", //包名字(必须)
+    "name": "sentest", //包名字(必须)
     "type": "library",
     "description": "my first test",
     "keywords": ["web", "php"],
