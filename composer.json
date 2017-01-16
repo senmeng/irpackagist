@@ -1,0 +1,17 @@
+{
+    "name": "monolog/monolog", //包名字(必须)
+    "type": "library",
+    "description": "my first test",
+    "keywords": ["web", "php"],
+    "homepage": "http://www.web3.xin",
+    "license": "MIT",
+    "authors": [
+        { "name": "monolog", "email": "626512443@qq.com" }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-0": { "Iran\\Func\\": "lib/" } //自动加载
+    }
+}
