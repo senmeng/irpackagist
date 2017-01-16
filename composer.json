@@ -9,8 +9,5 @@
     ],
     "require": {
         "php": ">=5.5"
-    },
-    "autoload": {
-        "psr-0": { "Iran\\Func\\": "lib/" } //自动加载
     }
 }
