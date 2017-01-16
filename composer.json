@@ -4,8 +4,9 @@
     "keywords": ["web", "php"],
     "homepage": "http://www.web3.xin",
     "license": "MIT",
+    "version": "1.0",
     "authors": [
-        { "name": "monolog", "email": "626512443@qq.com" }
+        { "name": "sen", "email": "626512443@qq.com" }
     ],
     "require": {
         "php": ">=5.5"
