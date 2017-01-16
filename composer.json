@@ -1,6 +1,5 @@
 {
-    "name": "sentest", //包名字(必须)
-    "type": "library",
+    "name": "sentest",
     "description": "my first test",
     "keywords": ["web", "php"],
     "homepage": "http://www.web3.xin",
